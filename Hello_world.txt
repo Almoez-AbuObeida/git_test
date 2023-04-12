@@ -1,2 +1,2 @@
 Hello, Odin.
-    This is Almoiz Abu Obaida and this is my edit to the Hello_word file.0
+    This is Almoiz Abu Obaida and this is my edit to the Hello_word file.
